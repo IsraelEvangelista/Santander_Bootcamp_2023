@@ -39,4 +39,4 @@ Mergulhe na trilha de ciência de dados com Python! Aprenda a linguagem e suas a
 
 - Certificado: Baixe e compartilhe os certificados de todas as suas conquistas ao longo desse bootcamp.
 ________________________________________________________________________________________________________________________________________________________
-**Projeto 01:**
+**Projeto 01:** [IA Generativa em uma Pipeline de ETL com Python](https://github.com/IsraelEvangelista/Santander_Bootcamp_2023/tree/main/Projeto%20ETL%20com%20Python%20com%20IA%20Generativa)
